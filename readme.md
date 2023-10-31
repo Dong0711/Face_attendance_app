@@ -12,6 +12,7 @@ dlib @ file://Path/to/file/dlib-19.22.99-cp39-cp39-win_amd64.whl
 ```sh
 pip install -r requirements.txt
 ```
+- inport file database.db vào hệ quản trị CSDL MySQL
 
 ## Cách sử dụng ứng dụng
 ### Chạy chương trình tại hàm main
