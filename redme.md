@@ -1,4 +1,4 @@
-# REDME
+# README
 
 ## Cách tải ứng dụng
 - Sử dụng python 3.9
